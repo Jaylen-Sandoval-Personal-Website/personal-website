@@ -266,3 +266,19 @@ span {
 .contact form .input-box input {
     width: 49%;
 }
+
+/* styles for mobile devices */
+@media screen and (max-width: 767px) {
+    /* your styles here */
+    .navbar a {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+  
+  
+  
+  
+  
